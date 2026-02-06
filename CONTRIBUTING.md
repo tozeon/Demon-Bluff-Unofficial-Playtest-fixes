@@ -35,15 +35,15 @@ Thanks for your interest in contributing! This mod aims to fix critical bugs in 
 ## Guidelines
 
 ### What Fixes Are Accepted
--✅ Critical gameplay bugs (game-breaking issues)
--✅ Bugs that prevent mods from working properly
--✅ Missing features that break expected game behavior
+- ✅ Critical gameplay bugs (game-breaking issues)
+- ✅ Bugs that prevent mods from working properly
+- ✅ Missing features that break expected game behavior
 
 ### What Fixes Are NOT Accepted
--❌ Balance changes or gameplay tweaks
--❌ Quality of life features (make a separate mod)
--❌ Fixes for issues the developers are actively working on
--❌ Changes that break compatibility with other mods
+- ❌ Balance changes or gameplay tweaks
+- ❌ Quality of life features (make a separate mod)
+- ❌ Fixes for issues the developers are actively working on
+- ❌ Changes that break compatibility with other mods
 
 ## Code Standards
 - Use **clear variable names**
