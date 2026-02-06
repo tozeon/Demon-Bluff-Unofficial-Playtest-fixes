@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an unofficial patch for the playtest of [Demon Bluff](https://store.steampowered.com/app/3522600/Demon_Bluff/), which provides small general fixes. It does not fix all bugs (and it likely won't ever try to), but if there is an important bug that helps mods or gameplay, this patch will try to eventually fix them.
+This is an unofficial patch for the playtest of [Demon Bluff](https://store.steampowered.com/app/3522600/Demon_Bluff/), which provides small general fixes. It does not fix all bugs (and it likely won't ever try to), but if there is an important bug that affects mods or vanilla gameplay, this patch will try to eventually fix them.
 
 This mod is ***mod agnostic***. It may or may not work with other mods depending on how they are implemented.
 
