@@ -12,7 +12,8 @@ Originally, I wanted to make small fixes for my original mod, [Reveal Dilemma](h
 
 ## Current Fixes
 
-- Game not ending when health is low
+- Game now ends when health is at/below 0
+    - includes Lilis and potentially other modded characters
 
 ## Planned Fixes
 
