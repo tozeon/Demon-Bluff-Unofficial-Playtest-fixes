@@ -1,18 +1,19 @@
-# Demon Bluff - Unofficial Demo Fixes
+# Demon Bluff - Unofficial Playtest Fixes
 
 ## Description
 
-This is an unofficial patch for the playtest of [Demon Bluff](https://store.steampowered.com/app/3522600/Demon_Bluff/), which provides small general fixes. It does not fix all bugs (and it likely won't ever try to), but if there is an important bug that affects mods or vanilla gameplay, this patch will try to eventually fix them.
+This is an unofficial patch for the playtest of [Demon Bluff](https://store.steampowered.com/app/3522600/Demon_Bluff/), which provides some fixes while the game prepares for it's official release. The focus is on fixing issues related to modding and a few other bugs encountered during the playtest.
 
-This mod is ***mod agnostic***. It may or may not work with other mods depending on how they are implemented.
+This mod is ***mod agnostic***. It should work fine with or without mods.
 
 ## Why?
 
-Although the game is still a ***demo/playtest***, I wanted to make small improvements for my own mods. Since I thought others might want the fixes, I decided to make it a separate stand-alone mod. The goal is a compatibility-friendly patch but I can not guarantee if it works with mods others have made.
+Originally, I wanted to make small fixes for my original mod, [Reveal Dilemma](https://github.com/tozeon/Demon-Bluff-Reveal-Dilemma-mod). I thought that some other people might want the fixes, so I decided to release it as a standalone mod instead of integrating it with Reveal Dilemma.
 
 ## Current Fixes
 
-- Game not ending when health is low
+- Game now ends when health is at/below 0
+    - includes Lilis and potentially other modded characters
 
 ## Installation
 
